@@ -1,5 +1,4 @@
-### Hi there 👋
-# Hi_Giih
+### Hi_Giih 👋
 
 <details>
   <summary> <b> Sobre mim. </summary><br>
