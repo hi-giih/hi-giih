@@ -1,33 +1,20 @@
-### Hi_Giih 👋
+### Oiie 🙋🏽‍♀️
 
-<details>
-  <summary> <b> Sobre mim. </summary><br>
 
- <!-- -- 🔭 Atualmente trabalhando com SQL.
- - 🌱 Pretendo me especializar em C# .NET. -->
-   
-<p align="center">  
-  <a href="https://github.com/devfraga/github-readme-stats">
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=hi-giih&theme=onedark">
+ <h2> Sobre mim ... </h2> 
+
+ - 👩🏽‍🎓 Formada em Sistemas de Informações ...
+ - 👩🏽‍💻 Estudando React/ React Native ...
+
+    
+<div align="center">     
+  <a href="https://github.com/hi-giih">
+   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=hi-giih&show_icons=true&theme=dracula"/>
+    <img align="center"  height="160em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hi-giih&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-  <a href="https://github.com/devfraga/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hi-giih&theme=onedark">
-  </a>
-</p>
-</details>
+ </div> 
+  
+##
 
 
-<!--
-**hi-giih/hi-giih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
