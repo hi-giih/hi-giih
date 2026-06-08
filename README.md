@@ -11,11 +11,6 @@
 
 ---
 
-## Atualmente estudando
-
-🐍 Formação Python com foco em backend
-
-
 ## Tecnologias
 
 <div style="display: inline_block"><br>
@@ -39,11 +34,6 @@
 
 ---
 
-## Objetivo
-
-Consolidar minha carreira em desenvolvimento backend, criando soluções robustas, escaláveis e bem estruturadas.
-
----
 
 ## Contato
 
