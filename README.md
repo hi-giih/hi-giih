@@ -21,7 +21,7 @@ Projeto autoral desenvolvido do zero para um bar em funcionamento, responsável 
 
 ## 💼 O que faço no dia a dia
 
-- **APIs REST** em Python com FastAPI, desenvolvimento e manutenção de APIs REST em Python com FastAPI, utilizando Swagger para documentação e testes.
+-  **APIs REST** em Python com FastAPI: desenvolvimento, manutenção e documentação com Swagger
 - **Integrações entre sistemas**, como uma ferramenta de autoatendimento para cargas de dados do ERP para o Salesforce
 - **Banco de dados**: consultas e manutenção em Oracle, SQL Server e MySQL
 - **Desenvolvimento Full Stack:** participação no desenvolvimento de interfaces web utilizando React e TypeScript, integradas a APIs REST.
